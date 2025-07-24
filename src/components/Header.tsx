@@ -17,7 +17,7 @@ export default function Header({ mobileMenuOpen, setMobileMenuOpen }: HeaderProp
           <div className="flex items-center space-x-3">
             <div className="relative">
               <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-600 rounded-full flex items-center justify-center shadow-md overflow-hidden">
-                <img src="/image.png" alt="1M Logo" className="w-6 h-6 object-contain" />
+                <img src="/logo.png" alt="1M Logo" className="w-6 h-6 object-contain" />
               </div>
               <div className="absolute -top-1 -right-1 w-2.5 h-2.5 bg-blue-400 rounded-full animate-pulse" />
             </div>
